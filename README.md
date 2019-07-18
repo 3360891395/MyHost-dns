@@ -4,25 +4,25 @@
 
 ## host文件存放位置
 
-+ 类unix
+    + 类unix
 
-> etc/hosts
+    > etc/hosts
 
-+ Windows
+    + Windows
 
-> C:\Windows\System32\drivers\etc\hosts
+    > C:\Windows\System32\drivers\etc\hosts
 
 ## Usage
 
-使用管理员权限修改对应的host文件
+    使用管理员权限修改对应的host文件
 
 ## Origin
 
-基于 [ipaddress](https://www.ipaddress.com/)
+    基于 [ipaddress](https://www.ipaddress.com/)
 
-访问得出的结果，不同网络服务商，存在不同情况
+    访问得出的结果，不同网络服务商，存在不同情况
 
-建议选择对应网域进行对应修改
+    建议选择对应网域进行对应修改
 
 ## PR
 
@@ -34,7 +34,7 @@
     
     如 ： 北京电信通-host
 
->可使用 [站长工具](http://ip.tool.chinaz.com/) 进行查询所属网域
+> 可使用 [站长工具](http://ip.tool.chinaz.com/) 进行查询所属网域
 
 ## 贡献
 
