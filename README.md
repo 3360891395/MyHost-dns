@@ -26,13 +26,13 @@
 
 ## PR
 
-提交所在网域下的host映射文件
+    提交所在网域下的host映射文件
 
 ### 注意
 
     PR title及host文件名称携带地区
     
-    如 ： 北京电信通-host
+    如 ： 北京电信网通-host
 
 > 可使用 [站长工具](http://ip.tool.chinaz.com/) 进行查询所属网域
 
