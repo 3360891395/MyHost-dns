@@ -2,7 +2,7 @@
 
 <p align="center">"<i>NOthing or Everything</i>"</p>
 
-<h2> align="center">用来防治DNS污染，加快访问速度</h2>
+<h2 align="center">用来防治DNS污染，加快访问速度</h2>
 
 <br>
 
