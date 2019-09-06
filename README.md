@@ -1,6 +1,32 @@
 # MyHost-dns
 
-用来防治DNS污染，加快访问速度
+<p align="center">"<i>NOthing or Everything</i>"</p>
+
+<h2> align="center">用来防治DNS污染，加快访问速度</h2>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/gaoljhy/MyHost-dns/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true"
+        alt="Pull Requests">
+  </a>
+  <a href="https://github.com/gaoljhy/MyHost-dns/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?longCache=true"
+        alt="License">
+  </a>
+</p>
+
+<div align="center">
+  <sub>Created by
+  <a href="http://grj321.com">gaoljhy</a> and
+  <a href="https://github.com/gaoljhy/MyHost-dns/contributors">
+    contributors
+  </a>
+</div>
+
+<br>
+
 
 ## host文件存放位置
 
